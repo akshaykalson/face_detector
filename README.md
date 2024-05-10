@@ -1,5 +1,5 @@
 Face Recognition System
-This Python script performs face recognition using the face_recognition library along with OpenCV. It compares the faces detected in a main image (e.g., "Elon Musk.jpg") with a test image (e.g., "Elon Test.jpg") to determine if they match.
+This Python script performs face recognition using the face_recognition library along with OpenCV. It compares the faces detected in a main image (e.g., "Elon Musk.jpg") with a test image (e.g., "Elon Test.jpg") to determine if they match
 
 Dependencies
 Make sure you have the following dependencies installed:
